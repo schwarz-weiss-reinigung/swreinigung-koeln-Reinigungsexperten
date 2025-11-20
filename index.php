@@ -66,7 +66,7 @@ $lsi_keywords = [
       "author": {
         "@type": "Organization",
         "name": "<?php echo htmlspecialchars($company_name); ?>",
-        "url": "<?php echo htmlspecialchars($canonical_url); ?>"
+        "url": "<?php echo htmlspecialchars($primary_url); ?>"
       },
       "publisher": {
         "@type": "Organization",
