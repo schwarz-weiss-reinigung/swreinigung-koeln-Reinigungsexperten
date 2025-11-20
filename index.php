@@ -1,7 +1,7 @@
 <?php
 // SEO Meta Information
 $meta_description = "Erfahren Sie, warum professionelle Gebäudereinigung in Köln unverzichtbar ist. 5 essentielle Fakten zur Reinigung von Geschäftsgebäuden und deren wirtschaftlichen Vorteilen.";
-$title = "Gebäudereinigung Köln: 5 Fakten, die Sie 2024 kennen müssen";
+$title = "Gebäudereinigung Köln: 5 Fakten, die Sie 2025 kennen müssen";
 $canonical_url = "https://swreinigung-koeln-reinigungsex-794aeccc68e5.herokuapp.com/";
 $primary_url = "https://swreinigung-koeln.de/";
 $target_city = "Köln";
@@ -76,8 +76,8 @@ $lsi_keywords = [
           "url": "<?php echo htmlspecialchars($logo_url); ?>"
         }
       },
-      "datePublished": "2024-01-15T08:00:00+08:00",
-      "dateModified": "2024-01-15T09:20:00+08:00"
+      "datePublished": "2025-01-15T08:00:00+08:00",
+      "dateModified": "2025-01-15T09:20:00+08:00"
     }
     </script>
     
@@ -275,7 +275,7 @@ $lsi_keywords = [
             <img src="<?php echo htmlspecialchars($logo_url); ?>" alt="<?php echo htmlspecialchars($company_name); ?> Logo" class="logo">
             <h1><?php echo htmlspecialchars($title); ?></h1>
             <div class="meta-info">
-                Veröffentlicht am 15. Januar 2024 | Thema: Gebäudereinigung
+                Veröffentlicht am 15. Januar 2025 | Thema: Gebäudereinigung
             </div>
         </header>
         
@@ -374,7 +374,7 @@ $lsi_keywords = [
         
         <footer>
             <p>Dieser Artikel dient Informationszwecken und wurde mit Sorgfalt recherchiert. Für die Vollständigkeit und Richtigkeit der Informationen kann keine Gewähr übernommen werden.</p>
-            <p>&copy; 2024 Gebäudereinigung Fachartikel. Alle Rechte vorbehalten.</p>
+            <p>&copy; 2025 Gebäudereinigung Fachartikel. Alle Rechte vorbehalten.</p>
         </footer>
     </div>
 </body>
