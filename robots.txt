@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://swreinigung-koeln-reinigungsexperte.vercel.app/sitemap.xml
+Sitemap: https://swreinigung-koeln-reinigungsex-794aeccc68e5.herokuapp.com/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
