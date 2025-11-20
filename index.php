@@ -2,7 +2,8 @@
 // SEO Meta Information
 $meta_description = "Erfahren Sie, warum professionelle Gebäudereinigung in Köln unverzichtbar ist. 5 essentielle Fakten zur Reinigung von Geschäftsgebäuden und deren wirtschaftlichen Vorteilen.";
 $title = "Gebäudereinigung Köln: 5 Fakten, die Sie 2024 kennen müssen";
-$canonical_url = "https://swreinigung-koeln-reinigungsexperte.vercel.app/";
+$canonical_url = "https://swreinigung-koeln-reinigungsex-794aeccc68e5.herokuapp.com/";
+$primary_url = "https://swreinigung-koeln.de/";
 $target_city = "Köln";
 $company_name = "Schwarz Weiss Reinigung";
 $primary_anchor = "Köln Reinigungsexperten";
@@ -41,7 +42,7 @@ $lsi_keywords = [
 <html lang="de">
 <head>
     <meta charset="UTF-8">
-  <meta name="google-site-verification" content="a6Vyyk3SbNxNouY5rUBk3VG-Cx2PVwx_c5Jkl6GiGzI" />
+<meta name="google-site-verification" content="3mzUiSIoLmrq_m8ZCPRRbJlnHo78RZncHEqYA3HMC7g" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo htmlspecialchars($title); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($meta_description); ?>">
@@ -296,7 +297,7 @@ $lsi_keywords = [
             
             <p>Für Unternehmen in <?php echo htmlspecialchars($target_city); ?> bedeutet ein sauberes Erscheinungsbild zudem einen Wettbewerbsvorteil. Kunden und Geschäftspartner assoziieren Sauberkeit mit Professionalität und Sorgfalt. Ein gepflegtes Gebäude vermittelt Kompetenz und stärkt das Vertrauen in Ihre Dienstleistungen oder Produkte.</p>
             
-            <p>Die Experten von <a href="<?php echo htmlspecialchars($canonical_url); ?>" target="_blank" rel="dofollow"><?php echo htmlspecialchars($primary_anchor); ?></a> verstehen diese Zusammenhänge und bieten maßgeschneiderte Reinigungskonzepte, die wirtschaftlich sinnvoll sind und gleichzeitig höchste Hygienestandards gewährleisten.</p>
+            <p>Die Experten von <a href="<?php echo htmlspecialchars($primary_url); ?>" target="_blank" rel="dofollow"><?php echo htmlspecialchars($primary_anchor); ?></a> verstehen diese Zusammenhänge und bieten maßgeschneiderte Reinigungskonzepte, die wirtschaftlich sinnvoll sind und gleichzeitig höchste Hygienestandards gewährleisten.</p>
             
             <div class="highlight-box">
                 <h3>Kosteneinsparung durch Prävention</h3>
